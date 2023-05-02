@@ -1,5 +1,5 @@
 # Super Market
-## Hosted Live: https://super-market-react18.netlify.app/
+## Hosted Live: https://online-shopping-market.netlify.app//
 
 Developed with: React, HTML, CSS
 
