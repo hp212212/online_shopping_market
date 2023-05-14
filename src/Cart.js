@@ -4,7 +4,7 @@ import Input from "./Input.js";
 import Button from "./Button.js";
 
 // TODO: Replace with your own publishable key
-//Yogesh's key
+//Hitesh's key
 //"pk_test_51L9BqvGbVclIjlflPWVP7ahSUrZlYjl9tyLj39O1P5yKBzCH4NOnJcTDKWlBYPSAJjoGz68LiT3rdJ21q1EkTuKi00asdGGVk4"
 const stripeLoadedPromise = loadStripe("pk_test_51L9BqvGbVclIjlflPWVP7ahSUrZlYjl9tyLj39O1P5yKBzCH4NOnJcTDKWlBYPSAJjoGz68LiT3rdJ21q1EkTuKi00asdGGVk4");
 

@@ -13,7 +13,7 @@ export default function Products(props) {
     fetcher
   );
 
-//yogesh's stripe account price id
+//Hitesh's stripe account price id
 let productStripeId = {
   cheese:'price_1LaKFcGbVclIjlflyQlSDi1L', //id:1 in firebase of Jad
   tomato:'price_1LaKG8GbVclIjlflF2N8MwAz', //id:3 in firebase of Jad
